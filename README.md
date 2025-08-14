@@ -33,10 +33,6 @@ This application allows you to:
 
 ## 🛠 Installation
 
-### 1️⃣ Clone the repository
-    bash
-git clone https://github.com/Sudheer-Bodimalla/natural-language-translation-app.git
-cd natural-language-translation-app
 pip install -r requirements.txt
 streamlit
 pydub
