@@ -35,7 +35,7 @@ This application allows you to:
 
 ### 1️⃣ Clone the repository
     bash
-git clone https://github.com/your-username/natural-language-translation-app.git
+git clone https://github.com/Sudheer-Bodimalla/natural-language-translation-app.git
 cd natural-language-translation-app
 pip install -r requirements.txt
 streamlit
